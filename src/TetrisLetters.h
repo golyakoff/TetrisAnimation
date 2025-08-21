@@ -1,3 +1,6 @@
+#ifndef __TETRIS_LETTERS__H__
+#define __TETRIS_LETTERS__H__
+
 /*
 Font created by Mike Swan.  
 Github: n00dles101
@@ -1031,28 +1034,4 @@ static const fall_instr_let getFallinstrByAscii(int num, int blockindex)
   }    
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#endif //__TETRIS_LETTERS__H__
